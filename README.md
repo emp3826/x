@@ -1,2 +1,2 @@
 # CCCCCH
-I think it is the most threating DDOS script
+the most threating DDOS script
